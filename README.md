@@ -1,6 +1,6 @@
 # OOP Wrapper — Employee Management System
 
-**Red & White Skill Education | Python OOP Project**
+
 
 ## Objective
 Ek console-based Employee Management System banana jo Object-Oriented Programming ke concepts use kare: classes, inheritance, encapsulation, method overloading, method overriding, `super()` aur `issubclass()`. System employees ko add, update aur remove kar sakta hai aur unke roles (Manager, Developer) track karta hai.
@@ -76,4 +76,4 @@ Employee created with name: Jane Smith, age: 28, ID: E123, and salary: $50000.0.
 - Exit karne par saare stored objects clear ho jaate hain, jisse destructor messages print hote hain.
 
 ## Author
-*(Apna naam yahan likho)*
+*(MOHAMMADKADIR SAIYAD)*
